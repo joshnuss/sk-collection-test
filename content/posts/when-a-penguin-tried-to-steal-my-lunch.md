@@ -1,5 +1,5 @@
 ---
-titlex: "When a Penguin Tried to Steal My Lunch"
+title: "When a Penguin Tried to Steal My Lunch"
 summary: "Join the team at ContentCrafter Inc. as they embark on a hilarious adventure in Antarctica. From a penguin trying to steal a Collector's lunch to the Validators' meticulous review process and the Transformers' creative magic, this lighthearted story showcases the fun and camaraderie that goes into crafting unique content."
 date: 2024-08-15
 author: Emily Johnson
