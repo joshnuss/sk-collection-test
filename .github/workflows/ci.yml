@@ -20,5 +20,5 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
-      - name: Build content
+      - name: Validate content
         run: pnpm content-collections build
